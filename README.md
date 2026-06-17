@@ -20,6 +20,5 @@ and provides friendly suggestions based on temperature.
 2. Open index.html in a browser
 3. Enter a city name and search
 
- **Live Demo:** https://namratha525.github.io/weather/
 
 
